@@ -20,7 +20,7 @@ image: https://github.com/UoB-IBM-TextMessaging-Team/ar_ai_textmessaging_pages/b
 			{% for person in site.staff_members %}
 				<li>
 					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
-					<div class="name"><a target="_blank" href="https://github.com/{{ person.twitter_username }}">{{ person.name }}</a></div>
+					<div class="name"><a target="_blank" href="https://github.com/{{ person.github_username }}">{{ person.name }}</a></div>
 					<div class="position">{{ person.position }}</div>
 				</li>
 			{% endfor %}
