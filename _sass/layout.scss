@@ -109,6 +109,14 @@ header {
 	}
 }
 
+.infoVid {
+	padding: 0 0 0 0;
+
+	&:first-child {
+		padding-top: 100px;
+	}
+}
+
 .subtext {
 	margin-top: 10px;
 }
