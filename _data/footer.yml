@@ -3,8 +3,8 @@ left_links:
     link: /blog/
   - name: About
     link: /about/
-  - name: Contact
-    link: /contact/
+  ##- name: Contact
+  ##  link: /contact/
 right_links:
   - name:
     link: https://github.com/UoB-IBM-TextMessaging-Team/JammoChat
