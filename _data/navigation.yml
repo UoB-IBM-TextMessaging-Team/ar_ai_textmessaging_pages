@@ -2,5 +2,7 @@
   link: /blog/
 - name: About
   link: /about/
+- name: GitHub
+  link: https://github.com/UoB-IBM-TextMessaging-Team/JammoChat
 #- name: Contact
 #  link: /contact/
