@@ -9,7 +9,8 @@ right_links:
   - name:
     link: https://github.com/UoB-IBM-TextMessaging-Team/JammoChat
     new_window: true
-    social_icon: Github
+    social_icon: RSS
   - name:
-    link: /https://github.com/UoB-IBM-TextMessaging-Team
+    link: https://github.com/UoB-IBM-TextMessaging-Team
+    new_window: true
     social_icon: RSS
