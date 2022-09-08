@@ -7,6 +7,4 @@ categories:
 image: https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/da51d609-18bc-486b-b7f0-63525d23f958.webp
 author_staff_member: Lin
 ---
-Big shout out to YouTube Channel Mix and Jam for their great open-source asset Jammo and sharing unity dev tourial!
-
-https://youtube.com/c/MixandJam
+Big shout out to YouTube Channel ![Mix and Jam](https://youtube.com/c/MixandJam) for their great open-source asset Jammo and sharing unity dev tourial!
