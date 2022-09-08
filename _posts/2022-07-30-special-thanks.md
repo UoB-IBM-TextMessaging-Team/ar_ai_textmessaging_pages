@@ -1,5 +1,5 @@
 ---
-title: Special thanks to free Mix an jam project
+title: Special thanks to Mix an jam project
 date: 2022-07-20
 description: Thanks for sharing great open-source asset.
 categories:
@@ -9,3 +9,4 @@ author_staff_member: Lin
 ---
 Big shout out to YouTube Channel Mix and Jam for their great open-source asset Jammo and sharing unity dev tourial!
 
+https://youtube.com/c/MixandJam
