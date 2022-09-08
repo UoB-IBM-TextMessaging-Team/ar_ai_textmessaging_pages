@@ -9,7 +9,7 @@ left_links:
   ##  link: /contact/
 right_links:
   - name:
-    link: https://github.com/UoB-IBM-TextMessaging-Team/JammoChat
+    link: https://github.com/UoB-IBM-TextMessaging-Team/JammoChat/releases
     new_window: true
     social_icon: RSS
   - name:
