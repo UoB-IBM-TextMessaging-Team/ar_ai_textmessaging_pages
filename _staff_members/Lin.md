@@ -5,9 +5,5 @@ image_path: https://avatars.githubusercontent.com/u/13105267?v=4
 github_username: Cheong43
 blurb: Zhichang enjoy and fascinating by every tech theory and new idea!
 ---
-name: Paul Chou
-position: Front End Developer
-image_path: 
-github_username: PoHsuanChou
-blurb: Happiness is: when your CODE runs without errors
+
 
